@@ -1,0 +1,12 @@
+c:\users\ilya\source\repos\Weather\Weather\bin\Debug\Weather.exe.config
+c:\users\ilya\source\repos\Weather\Weather\bin\Debug\Weather.exe
+c:\users\ilya\source\repos\Weather\Weather\bin\Debug\Weather.pdb
+c:\users\ilya\source\repos\Weather\Weather\obj\Debug\Weather.csprojAssemblyReference.cache
+c:\users\ilya\source\repos\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+c:\users\ilya\source\repos\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.cache
+c:\users\ilya\source\repos\Weather\Weather\obj\Debug\Weather.csproj.CoreCompileInputs.cache
+c:\users\ilya\source\repos\Weather\Weather\obj\Debug\Weather.exe
+c:\users\ilya\source\repos\Weather\Weather\obj\Debug\Weather.pdb
+c:\users\ilya\source\repos\Weather\Weather\bin\Debug\MaterialSkin.dll
+c:\users\ilya\source\repos\Weather\Weather\obj\Debug\Weather.csproj.CopyComplete
+c:\users\ilya\source\repos\Weather\Weather\obj\Debug\Weather.Weather.resources
